@@ -1,6 +1,10 @@
-An interactive display of the sierpinski fractal with smooth movement.
+# sierpinsky-fractal-js
 
-To run it just open the index.html with a browser (i.e. Firefox, Chrome, Safari.....).
+A recursive implementation of the sierpinsky fractal with time-based animation and fading.
 
-Hold 'A' to see controls
-Press 'D' to toggle text
+## Getting Started
+To run the simulation clone or download the repository and open the index.html file with your favourite browser (i.e. Firefox, Chrome, Safari.....).
+
+## Controls
+Press 'D' to toggle text hints.
+Hold 'A' to see controls.
