@@ -3,6 +3,10 @@
 A recursive implementation of the sierpinsky fractal with time-based animation and fading.
 
 ## Getting Started
+https://stopitcarl.github.io/sierpinski-fractal-js/
+
+or
+
 To run the simulation clone or download the repository and open the index.html file with your favourite browser (i.e. Firefox, Chrome, Safari.....).
 
 ## Controls
